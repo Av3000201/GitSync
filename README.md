@@ -175,3 +175,4 @@ If you'd like to know what's still untranslated for a given locale, see [`untran
 
 - [flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)
 - [git2-rs](https://github.com/rust-lang/git2-rs)
+ 
